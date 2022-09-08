@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dadaasdcfaw
 - 👀 I’m interested in Machine Learning, AI, Data Science and Videogames
-- 🌱 I’m currently learning German and C++ 
+- 🌱 I’m currently learning German, Django and Relational Databases. 
 - 📫 How to reach me josebarrosribademar@gmail.com
 
 <!---
